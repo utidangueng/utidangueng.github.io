@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://utidangueng.mortoe.com/utidangueng.txt
